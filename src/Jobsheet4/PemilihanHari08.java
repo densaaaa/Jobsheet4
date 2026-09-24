@@ -8,7 +8,7 @@ public class PemilihanHari08 {
 
     String dayName, dayType;
 
-    System.out.println("Input day name: ");
+    System.out.println("Iput day name: ");
     dayName = sc.nextLine();
 
     switch (dayName.toLowerCase()) {
