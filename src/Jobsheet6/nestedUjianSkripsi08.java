@@ -27,7 +27,7 @@ public class nestedUjianSkripsi08 {
                 pesan = "Gagal! Log bimbingan P2 belum mencapai 5 kali";
             }
         } else {
-            pesan = "Gagal! Mahasiswa masih memiliki tanggungan kompen";
+            pesan = "Gagal! Mahasisa masih memiliki tanggungan kompen";
         }
         
         System.out.println(pesan);
