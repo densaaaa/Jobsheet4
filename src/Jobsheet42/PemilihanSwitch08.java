@@ -35,7 +35,7 @@ public class PemilihanSwitch08 {
                 break;
             case 8 :
                 System.out.println("KRS SEMESTER 8 DITAMPILKAN");
-                break;
+                break; 
             default :
                 System.out.println("SEMESTER TIDAK AKTIF");
         }
